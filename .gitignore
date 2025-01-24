@@ -4,8 +4,6 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-!Dockerfile
-!docker-compose.yml
 
 # Spring Tool Suite (STS) specific files
 .apt_generated
